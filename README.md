@@ -1,3 +1,16 @@
+<!--
+    Querido usuário usando meu README como base para criar seu próprio:
+    Fico muito feliz que você tenha gostado e sinta-se livre para o uso!
+    Eu apenas peço uma coisa, por gentileza:
+
+    Por favor, deixe uma estrela no meu README, irá deixar meu dia mais feliz :)
+    ------
+    Dear user using my README as a base  to create your own:
+    I’m glad you liked it and feel free to use it!
+    I just kindly ask for one thing:
+
+    Please, leave a star on my README, it will make my day :)
+-->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -85,3 +98,8 @@ Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desen
   />
 
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
