@@ -18,6 +18,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> 
   </a>
 </div>
+#
+
+<img align="left" alt="" height="170px" src="./src/Maomao.gif">
 # 
 
 Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware e um dos maiores amantes de jogos.
