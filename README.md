@@ -19,7 +19,7 @@
 </div>
 
 
-<img align="right" alt="" height="170px" src="./src/Maomao.gif">
+<img align="left" alt="" height="170px" src="./src/Maomao.gif">
  
 
 Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware e um dos maiores amantes de jogos.
