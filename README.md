@@ -11,7 +11,7 @@
 
     Please, leave a star on my README, it will make my day :)
 -->
-<img align="right" alt="" height="170px" src="./src/Maomao.gif">
+<img align="left" alt="" height="170px" src="./src/Maomao.gif">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
