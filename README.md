@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware e um dos maiores amantes em jogos
+Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware e um dos maiores amantes de jogos
  
 #
 
@@ -14,8 +14,9 @@ Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desen
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:frleonardo.filho@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leonardo-santana-757672341/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=google&logoColor=FF00F6&color:FFF)](mailto:frleonardo.filho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedIn&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leonardo-santana-757672341/)
+[![Intagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/leonardocs.f/)
 
 
 <h3 align="left">My Stack ~</h3>
