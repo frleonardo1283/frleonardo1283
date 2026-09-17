@@ -21,6 +21,7 @@
 
 My name is Leonardo, I’m 16 years old, and I live in Salvador, Bahia, Brazil. I’m currently studying Systems Development at SENAI. I’m passionate about technology, curious about hardware, and a huge gaming enthusiast.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Me chamo Leonardo, tenho 16 anos e moro em Salvador - BA. Atualmente curso Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, curioso sobre Hardware e um dos maiores amantes de jogos.
 #
